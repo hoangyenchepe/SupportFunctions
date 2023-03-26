@@ -7,8 +7,8 @@ namespace SupportFunctions
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            ExcelTools excelTools = new ExcelTools();
-            excelTools.Read();
+            CSVFilesTools csvTools = new CSVFilesTools();
+            csvTools.FilterGreatestDuplicatedLine();
             Console.ReadLine();
         }
     }

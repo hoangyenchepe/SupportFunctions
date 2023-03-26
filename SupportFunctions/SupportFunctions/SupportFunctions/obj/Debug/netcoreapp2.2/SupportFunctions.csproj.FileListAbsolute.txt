@@ -9,3 +9,14 @@ D:\Yen\Company\Release\TaikooSocial\DataPatching03162023\20230310\20230310-v1\Pr
 D:\Yen\Company\Release\TaikooSocial\DataPatching03162023\20230310\20230310-v1\Projects\SupportFunctions\SupportFunctions\SupportFunctions\bin\Debug\netcoreapp2.2\SupportFunctions.pdb
 D:\Yen\Company\Release\TaikooSocial\DataPatching03162023\20230310\20230310-v1\Projects\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.dll
 D:\Yen\Company\Release\TaikooSocial\DataPatching03162023\20230310\20230310-v1\Projects\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.pdb
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\bin\Debug\netcoreapp2.2\SupportFunctions.deps.json
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\bin\Debug\netcoreapp2.2\SupportFunctions.runtimeconfig.json
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\bin\Debug\netcoreapp2.2\SupportFunctions.runtimeconfig.dev.json
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\bin\Debug\netcoreapp2.2\SupportFunctions.dll
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\bin\Debug\netcoreapp2.2\SupportFunctions.pdb
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.csproj.CoreCompileInputs.cache
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.AssemblyInfoInputs.cache
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.AssemblyInfo.cs
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.dll
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.pdb
+C:\Yen\Personal\Code\SupportFunctions\SupportFunctions\SupportFunctions\SupportFunctions\obj\Debug\netcoreapp2.2\SupportFunctions.csprojAssemblyReference.cache
